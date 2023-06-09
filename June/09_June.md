@@ -4,28 +4,28 @@ title: 09 June
 parent: June
 nav_order: 9
 ---
-Graffiti - writing or drawing scratched on a wall in a public place
+1.Graffiti - writing or drawing scratched on a wall in a public place
 
-radicalism - groundwork,ultraism
+2.radicalism - groundwork,ultraism
 
-vandalism - action involving damage to public 
+3.vandalism - action involving damage to public 
 
-Emphasis -importance, attention 
+4.Emphasis -importance, attention 
 
-ebbs (N) - receding, downgrade
+5.ebbs (N) - receding, downgrade
 
-thaw - melt, liquate decompose, defrost
+6.thaw - melt, liquate decompose, defrost
 
-irritant - thrilling, irritation,
+7.irritant - thrilling, irritation,
 
-delved - dig in, scrabble around in
+8.delved - dig in, scrabble around in
 
-bonhomie - good humour, affability
+9.bonhomie - good humour, affability
 
-fillip -encouragement, spur
+10.fillip -encouragement, spur
 
-Fruition - use, utilization
+11.Fruition - use, utilization
 
-Forays - attack, strike
+12.Forays - attack, strike
 
-intrusive (Adv) - interfering, invasive
+13.intrusive (Adv) - interfering, invasive

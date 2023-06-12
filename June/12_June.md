@@ -20,11 +20,16 @@ nav_order: 12
 Sow the seeds of - To do something that will cause something to happen in the future
 
 
-1.Telltale - revealing
+1.Telltale - revealing 
+
 2.derailed - cause to leave its tracks accidentally 
+
 3.prophet - forecaster of the future
+
 4.Arson - Ignite inflame
+
 5.Syncretic - सामजम्मपूर्ण
+
 6.obeisance - faith dignity.
 
 

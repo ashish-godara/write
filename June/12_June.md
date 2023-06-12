@@ -30,7 +30,25 @@ Sow the seeds of - To do something that will cause something to happen in the fu
 
 5.Syncretic - सामजम्मपूर्ण
 
-6.obeisance - faith dignity.
+6.obeisance - faith dignity
+
+7.Deft-skilled ,clever
+
+8.Steering - operating
+
+9.throes - pain, torture
+
+10.Prognosis - the likely course of a disease
+
+11.Spurring - encourage
+
+12.Archaic - ancient, obsolescent
+
+13.Elucidation -explanation
+
+14.Revs - rotate , ↑ the running speed of a vehicle by pressing the accelerator
+
+15.Desist - stop, hold back, quit
 
 
 
